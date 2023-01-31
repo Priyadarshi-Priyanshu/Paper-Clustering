@@ -3,7 +3,7 @@ The Project is about Making Clusters using K-means and cosine Similarities
 
 FLOW OF THE PROJECT :-
 
-WebScrapping and finding all the URL,[D[D[D[C[C[C[D[D[D[Dpdf url, html url and pdf title
+WebScrapping and finding all the pdf url, html url and pdf title
 2.  Pdf Scarapping and making corpus of all the texts
 3.  Preprocessing Stage (stemming, re, lemmetization)
 4.  Word Embedding using FASTTEXT
